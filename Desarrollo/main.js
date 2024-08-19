@@ -25,7 +25,10 @@ const buttonAdd = document.getElementById('buttonAddElement');
 buttonAdd.addEventListener('click', () => {
     openModal();
 });
-
+const buttonAdd2 = document.getElementById('buttonAddElement2');
+buttonAdd2.addEventListener('click', () => {
+    openModal();
+});
 //boton de busqueda
 
 const buttonSearch=document.getElementById("boton")

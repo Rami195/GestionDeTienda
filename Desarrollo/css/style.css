@@ -343,12 +343,11 @@ select option:checked {
 }
 .containerTitle{
   margin: 1rem;
-  margin-left: 10%;
   font-size: 24px;
   color: #fa6f3b;
   display: flex;
-  justify-content: left;
-  width: 90%;
+  justify-content: center;
+  width: 100%;
   cursor: pointer;
   transition: color 1s;
 }
