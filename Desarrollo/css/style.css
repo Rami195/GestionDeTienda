@@ -180,7 +180,6 @@
   padding: 0.4rem;
   border-radius: 0.4rem;
   border: #fa6f3b;
-
   color: #fa6f3b;
   outline: none;
   margin-top: 100;
@@ -371,4 +370,9 @@ select option:checked {
 .offcanvas-narrow{
   max-width: 150px;
 
+}
+
+
+.boton-agregar-dentro{
+  display: none;
 }
