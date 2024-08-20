@@ -1,12 +1,12 @@
 <div align="center">
 
-# Gestion de Tienda 
+# Gestion de Tienda de Zapatillas
 
 </div>
 
 ## Introducción
 
-¡Hola! Soy Ramiro Martinez, actualmente estoy realizando cursando el 3er año de Ingeniería en Sistemas. En este proyecto, he creado una gestion de tienda en donde podemos agregar un elemento, modificarlo o eliminarlo.
+¡Hola! Soy Ramiro Martinez, actualmente estoy realizando cursando el 3er año de Ingeniería en Sistemas. En este proyecto, he creado una gestion de tienda de zapatilla en donde podemos agregar un elemento, modificarlo o eliminarlo. Estos elementos se ordenan en categorias de hombre, mujer y niño
 
 ## Tecnologías Utilizadas
 
@@ -24,8 +24,7 @@ En este proyecto, utilicé las siguientes tecnologías:
 
 
 ## Despliegue
-
-Utilicé Vercel para realizar el despliegue de mi proyecto. Puedes ver mi proyecto desplegado en [ https://trabajo-final-2.vercel.app ](https://vercel.com/ramiros-projects-413d8ebf/gestion-de-tienda)
+Utilicé Vercel para realizar el despliegue de mi proyecto. Puedes ver mi proyecto desplegado en [ https://trabajo-final-2.vercel.app ](https://vercel.com/ramiros-projects-413d8ebf/gestion-de-tienda) y agregar los elementos que desees
 
 
 
